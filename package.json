@@ -20,7 +20,10 @@
   "homepage": "https://github.com/igormori/chatbot-be#readme",
   "dependencies": {
     "cors": "^2.8.5",
+    "dotenv": "^16.3.1",
     "express": "^4.18.2",
+    "hnswlib-node": "^1.4.2",
+    "langchain": "^0.0.97",
     "lodash": "^4.17.21",
     "uuid": "^9.0.0"
   }
